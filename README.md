@@ -83,4 +83,4 @@ MIT License. Feel free to use, improve, or fork this project.
 ## 🔗 Built With Pride  
 Created with ❤️ by **Edward Thornton**  
 _For the Caterpillar IT Architect Interview_  
-[GitHub Profile](https://github.com/RedLeopard) • [Cloud Systems Direct](https://cloudsystemsdirect.com)  
+[GitHub Profile](https://github.com/RedLeopard) • [Portfolio](https://hireedwardthornton.click)  
