@@ -25,5 +25,14 @@ This project showcases the deployment of a secure and production-grade Amazon EK
 
 ---
 
-## 📂 File Structure
+## 📁 File Structure
+
+```text
+caterpillar-eks-lab/
+├── terraform/
+│   ├── main.tf                  # Main infrastructure definitions
+│   ├── github-oidc.tf           # IAM OIDC integration with GitHub
+│   ├── terraform.tfstate        # Terraform state (usually in .gitignore)
+│   └── terraform.tfstate.backup # Terraform state backup
+├── README.md                    # Project overview and documentation
 
