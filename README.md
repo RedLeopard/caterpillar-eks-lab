@@ -63,10 +63,10 @@ kubectl get nodes
   
 ## 📸 Visual Evidence  
   
-### ✅ EC2 Node Instances  
+### ✅ EKS Cluster in Console  
 <img width="1440" alt="EC2 Instances" src="https://github.com/user-attachments/assets/aec624b5-700a-4020-9dc3-68517aba7186" />  
   
-### ✅ EKS Cluster in Console  
+### ✅ EC2 Node Instances 
 <img width="1440" alt="EKS Cluster" src="https://github.com/user-attachments/assets/2b3f9ef1-b72b-4c02-af98-d5104b0b7b01" />  
   
 ### ✅ Security Group Details  
